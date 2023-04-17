@@ -4,7 +4,7 @@
 * [Published portfolio Website](https://reubenheke.com.au)
 * [Github Repo](https://www.github.com)
 * [Presentation](../docs/T1A2_presentation.mp4)
-* [Powerpoint](../docs/T1A2_Powerpoint.pptx)
+* [Powerpoint](../ppt/T1A2_PDF_Powerpoint.pdf)
 
 
 ## Purpose
